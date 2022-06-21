@@ -1,4 +1,4 @@
-- 👋 Hi! I'm Kain
+# 👋 Hi! I'm Kain.
 - 🌱 I got this name from the Roccat mouse. 
 - 🛠️ I am a programmer and 🎨 designer.
 - 🚀 I am currently working on a BIG project 👀 
